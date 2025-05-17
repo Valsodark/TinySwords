@@ -1,0 +1,1 @@
+move_outside_solid(direction, 1);

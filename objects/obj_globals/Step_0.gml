@@ -1,0 +1,1 @@
+ds_map_clear(global.target_counts);

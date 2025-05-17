@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sct_toggle_select",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sct_toggle_select",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
